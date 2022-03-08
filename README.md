@@ -1,2 +1,2 @@
-# Practicas-HTML
+# Prácticas-HTML
 Prácticas Semana 2
